@@ -1,9 +1,9 @@
 <h1 align="center">Hy 👋, I'm Niirmaal Twaatii</h1>
 <h3 align="center">Exploring Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niirmaaltwaatii" alt="niirmaaltwaatii" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=niirmaaltwaatii" alt="niirmaaltwaatii" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niirmaaltwaatii&layout=compact" alt="niirmaaltwaatii" /></p>
+<p><img center="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niirmaaltwaatii&layout=compact" alt="niirmaaltwaatii" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niirmaaltwaatii&show_icons=true" alt="niirmaaltwaatii" /></p>
 
