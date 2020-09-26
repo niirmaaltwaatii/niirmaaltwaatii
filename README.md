@@ -1,5 +1,12 @@
 <h1 align="center">Hy 👋, I'm Niirmaal Twaatii</h1>
-<h3 align="center">Exploring Technology</h3>
+<h3 align="center">_Exploring Technology_</h3>
+<p align="center">
+Welcome to my GitHub Profile ; Here you will find some <b>useful tools for Linux, Termux & Windows</b> ; If you like my Effort, Consider giving Stars to Repositories you like ; 
+</p>
+<p align="center"><b>Follow</b><i> for more updates on latest tools</i> ;</p>
+
+Watch Tutorials on [**_YouTube_**](https://www.youtube.com/channel/UCAIZm1RkOe4pySifRsn3TNw)
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=niirmaaltwaatii" alt="niirmaaltwaatii" /> </p>
 
@@ -16,7 +23,7 @@
 </p>
 
 <!--
-**niirmaaltwaatii/niirmaaltwaatii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**niirmaaltwaatii/niirmaaltwaatii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 Here are some ideas to get you started:
 
