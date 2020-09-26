@@ -8,7 +8,21 @@ Welcome to my GitHub Profile ; Here you will find some <b>useful tools for Linux
 Watch Tutorials on [**_YouTube_**](https://www.youtube.com/channel/UCAIZm1RkOe4pySifRsn3TNw)
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=niirmaaltwaatii" alt="niirmaaltwaatii" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=niirmaaltwaatii" alt="niirmaaltwaatii" />
+  <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii"><img src="https://img.shields.io/github/stars/niirmaaltwaatii" alt="Stars Badge"/></a>
+  <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii/blob/master/LICENSE"><img src="https://img.shields.io/github/license/niirmaaltwaatii/niirmaaltwaatii?color=2b9348" alt="License Badge"/></a>
+</p>
+
+<!--
+For repository
+<a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii"><img src="https://img.shields.io/github/forks/niirmaaltwaatii" alt="Forks Badge"/></a>
+<a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii"><img src="https://img.shields.io/github/issues-pr/niirmaaltwaatii" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii/issues"><img src="https://img.shields.io/github/issues/niirmaaltwaatii" alt="Issues Badge"/></a>
+<a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/niirmaaltwaatii?color=2b9348"></a>
+-->
+
+
 
 <p align="center"><img center="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niirmaaltwaatii&layout=compact" alt="niirmaaltwaatii" /></p>
 
