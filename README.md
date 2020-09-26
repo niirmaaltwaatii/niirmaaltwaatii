@@ -11,6 +11,7 @@ Watch Tutorials on [**_YouTube_**](https://www.youtube.com/channel/UCAIZm1RkOe4p
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niirmaaltwaatii" alt="niirmaaltwaatii" />
   <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii"><img src="https://img.shields.io/github/stars/niirmaaltwaatii" alt="Stars Badge"/></a>
+  <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii"><img src="https://img.shields.io/github/followers/niirmaaltwaatii" alt="Followers"/></a>
   <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii/blob/master/LICENSE"><img src="https://img.shields.io/github/license/niirmaaltwaatii/niirmaaltwaatii?color=2b9348" alt="License Badge"/></a>
 </p>
 
