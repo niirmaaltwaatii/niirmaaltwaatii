@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=niirmaaltwaatii" alt="niirmaaltwaatii" /> </p>
 
-<p><img center="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niirmaaltwaatii&layout=compact" alt="niirmaaltwaatii" /></p>
+<p align="center"><img center="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niirmaaltwaatii&layout=compact" alt="niirmaaltwaatii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niirmaaltwaatii&show_icons=true" alt="niirmaaltwaatii" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niirmaaltwaatii&show_icons=true" alt="niirmaaltwaatii" /></p>
 
 <p align="center">
 <a href="https://twitter.com/niirmaaltwaatii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="niirmaaltwaatii" height="30" width="30" /></a>
