@@ -1,7 +1,7 @@
 <h1 align="center">Hy 👋, I'm Niirmaal Twaatii</h1>
 <h3 align="center">_Exploring Technology_</h3>
 <p align="center">
-Welcome to my GitHub Profile ; Here you will find some <b>Useful Tools for Linux, Termux & Windows</b> and other Projects ; If you like my Effort, Consider giving Stars to Repositories you like ; 
+Welcome to my GitHub Profile 😃; Here you will find some <b>Useful Tools for Linux, Termux & Windows</b> and other Projects ; Hope you 💖LOVE my Work, Consider giving 🌟Stars to Repositories you like ; 
 </p>
 <p align="center"><b>Follow</b><i> for more updates on latest tools</i> ;</p>
 
@@ -17,9 +17,9 @@ Welcome to my GitHub Profile ; Here you will find some <b>Useful Tools for Linux
   <a href="https://www.youtube.com/channel/UCAIZm1RkOe4pySifRsn3TNw"><img src="https://img.shields.io/badge/-Subscribe-red?logo=youtube" alt="youtube" /></a>
   <a href="https://www.t.me/niirmaaltwaatii"><img src="https://img.shields.io/badge/-Message-teal?logo=telegram" alt="telegram" /></a>
   <a href="https://www/twitter.com/niirmaaltwaatii"><img src="https://img.shields.io/twitter/follow/niirmaaltwaatii?label=Follow&style=social" alt"twitter" /></a>
-  <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii?tab=followers"><img src="https://img.shields.io/badge/-Follow-111111?logo=github" alt="Followers"/></a>
+  <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii?tab=followers"><img src="https://img.shields.io/badge/-Follow-111111?logo=github" alt="github follow"/></a>
   <a href="https://www.facebook.com/tw.niirmal"><img src="https://img.shields.io/badge/-Profile-white?logo=facebook" alt="facebook profile" /></a>
-  <a href="https://www.facebook.com/niirmaaltwaatii"><img src="https://img.shields.io/badge/Page-Follow-blue?logo=facebook" alt="facebook profile" /></a>
+  <a href="https://www.facebook.com/niirmaaltwaatii"><img src="https://img.shields.io/badge/Page-Follow-blue?logo=facebook" alt="facebook page" /></a>
 </p>
 
 <!--
