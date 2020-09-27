@@ -19,7 +19,7 @@ Welcome to my GitHub Profile 😃; Here you will find some <b>Useful Tools for L
   <a href="https://www/twitter.com/niirmaaltwaatii"><img src="https://img.shields.io/twitter/follow/niirmaaltwaatii?label=Follow&style=social" alt"twitter" /></a>
   <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii?tab=followers"><img src="https://img.shields.io/badge/-Follow-111111?logo=github" alt="github follow"/></a>
   <a href="https://www.facebook.com/tw.niirmal"><img src="https://img.shields.io/badge/-Profile-white?logo=facebook" alt="facebook profile" /></a>
-  <a href="https://www.facebook.com/niirmaaltwaatii"><img src="https://img.shields.io/badge/Page-Follow-blue?logo=facebook" alt="facebook page" /></a>
+  <a href="https://www.facebook.com/niirmaaltwaatii"><img src="https://img.shields.io/badge/-Page-cyan?logo=facebook" alt="facebook page" /></a>
 </p>
 
 <!--<img src="https://nirmaltwati.com.np/img/intro-carousel/know.jpg" alt="profile"/>-->
