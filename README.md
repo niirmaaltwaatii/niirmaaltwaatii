@@ -12,8 +12,12 @@ Welcome to my GitHub Profile ; Here you will find some <b>Useful Tools for Linux
   <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii/blob/master/LICENSE"><img src="https://img.shields.io/github/license/niirmaaltwaatii/niirmaaltwaatii?color=2b9348" alt="License Badge"/></a>
 </p>
 
+<h3 align="center">Social Links</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCAIZm1RkOe4pySifRsn3TNw"><i>Watch Tutorials</i> on <b>YouTube</b></a>
+  <a href="https://www.facebook.com/tw.niirmal"><img src="https://img.shields.io/badge/-Profile-white?logo=facebook" alt="facebook profile" /></a>
+  <a href="https://www.youtube.com/channel/UCAIZm1RkOe4pySifRsn3TNw"><img src="https://img.shields.io/badge/-Subscribe-red?logo=youtube" alt="youtube" /></a>
+  <a href="https://www/twitter.com/niirmaaltwaatii"><img src="https://img.shields.io/twitter/follow/niirmaaltwaatii?label=Follow&style=social" alt"twitter" /></a>
+  <a href="https://www.t.me/niirmaaltwaatii"><img src="https://img.shields.io/badge/-Message-teal?logo=telegram" alt="telegram" /></a>
 </p>
 
 <!--
