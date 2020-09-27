@@ -22,6 +22,8 @@ Welcome to my GitHub Profile 😃; Here you will find some <b>Useful Tools for L
   <a href="https://www.facebook.com/niirmaaltwaatii"><img src="https://img.shields.io/badge/Page-Follow-blue?logo=facebook" alt="facebook page" /></a>
 </p>
 
+<!--<img src="https://nirmaltwati.com.np/img/intro-carousel/know.jpg" alt="profile"/>-->
+
 <!--
 For repository
 <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii"><img src="https://img.shields.io/github/forks/niirmaaltwaatii" alt="Forks Badge"/></a>
