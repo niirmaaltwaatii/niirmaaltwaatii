@@ -1,12 +1,9 @@
 <h1 align="center">Hy 👋, I'm Niirmaal Twaatii</h1>
 <h3 align="center">_Exploring Technology_</h3>
 <p align="center">
-Welcome to my GitHub Profile ; Here you will find some <b>useful tools for Linux, Termux & Windows</b> ; If you like my Effort, Consider giving Stars to Repositories you like ; 
+Welcome to my GitHub Profile ; Here you will find some <b>Useful Tools for Linux, Termux & Windows</b> and other Projects ; If you like my Effort, Consider giving Stars to Repositories you like ; 
 </p>
 <p align="center"><b>Follow</b><i> for more updates on latest tools</i> ;</p>
-
-Watch Tutorials on [**_YouTube_**](https://www.youtube.com/channel/UCAIZm1RkOe4pySifRsn3TNw)
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niirmaaltwaatii" alt="niirmaaltwaatii" />
@@ -14,6 +11,8 @@ Watch Tutorials on [**_YouTube_**](https://www.youtube.com/channel/UCAIZm1RkOe4p
   <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii?tab=followers"><img src="https://img.shields.io/github/followers/niirmaaltwaatii" alt="Followers"/></a>
   <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii/blob/master/LICENSE"><img src="https://img.shields.io/github/license/niirmaaltwaatii/niirmaaltwaatii?color=2b9348" alt="License Badge"/></a>
 </p>
+
+<a href="https://www.youtube.com/channel/UCAIZm1RkOe4pySifRsn3TNw"><button style="width:100%;">Watch Tutorials on YouTube</button></a>
 
 <!--
 For repository
