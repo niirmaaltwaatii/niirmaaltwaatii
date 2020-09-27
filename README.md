@@ -12,7 +12,9 @@ Welcome to my GitHub Profile ; Here you will find some <b>Useful Tools for Linux
   <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii/blob/master/LICENSE"><img src="https://img.shields.io/github/license/niirmaaltwaatii/niirmaaltwaatii?color=2b9348" alt="License Badge"/></a>
 </p>
 
-<a href="https://www.youtube.com/channel/UCAIZm1RkOe4pySifRsn3TNw"><button style="width:100%;">Watch Tutorials on YouTube</button></a>
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCAIZm1RkOe4pySifRsn3TNw"><i>Watch Tutorials</i> on <b>YouTube</b></a>
+</p>
 
 <!--
 For repository
