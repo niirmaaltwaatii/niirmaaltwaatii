@@ -7,7 +7,7 @@ Welcome to my GitHub Profile ; Here you will find some <b>Useful Tools for Linux
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niirmaaltwaatii" alt="niirmaaltwaatii" />
-  <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii"><img src="https://img.shields.io/github/stars/niirmaaltwaatii" alt="Stars Badge"/></a>
+  <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii"><img src="https://img.shields.io/github/stars/niirmaaltwaatii?label=Stars" alt="Stars Badge"/></a>
   <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii?tab=followers"><img src="https://img.shields.io/github/followers/niirmaaltwaatii?label=Followers" alt="Followers"/></a>
   <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii/blob/master/LICENSE"><img src="https://img.shields.io/github/license/niirmaaltwaatii/niirmaaltwaatii?color=2b9348" alt="License Badge"/></a>
 </p>
@@ -17,7 +17,7 @@ Welcome to my GitHub Profile ; Here you will find some <b>Useful Tools for Linux
   <a href="https://www.youtube.com/channel/UCAIZm1RkOe4pySifRsn3TNw"><img src="https://img.shields.io/badge/-Subscribe-red?logo=youtube" alt="youtube" /></a>
   <a href="https://www.t.me/niirmaaltwaatii"><img src="https://img.shields.io/badge/-Message-teal?logo=telegram" alt="telegram" /></a>
   <a href="https://www/twitter.com/niirmaaltwaatii"><img src="https://img.shields.io/twitter/follow/niirmaaltwaatii?label=Follow&style=social" alt"twitter" /></a>
-  <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii?tab=followers"><img src="https://img.shields.io/badge/-Follow-black?logo=github" alt="Followers"/></a>
+  <a href="https://github.com/niirmaaltwaatii/niirmaaltwaatii?tab=followers"><img src="https://img.shields.io/badge/-Follow-111111?logo=github" alt="Followers"/></a>
   <a href="https://www.facebook.com/tw.niirmal"><img src="https://img.shields.io/badge/-Profile-white?logo=facebook" alt="facebook profile" /></a>
   <a href="https://www.facebook.com/niirmaaltwaatii"><img src="https://img.shields.io/badge/Page-Follow-blue?logo=facebook" alt="facebook profile" /></a>
 </p>
