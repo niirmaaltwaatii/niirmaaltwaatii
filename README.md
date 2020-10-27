@@ -34,11 +34,11 @@ For repository
 -->
 
 
-
+<!--
 <p align="center"><img center="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niirmaaltwaatii&layout=compact" alt="niirmaaltwaatii" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niirmaaltwaatii&show_icons=true" alt="niirmaaltwaatii" /></p>
-
+-->
 <p align="center">
 <a href="https://twitter.com/niirmaaltwaatii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="niirmaaltwaatii" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/niirmaaltwaatii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="niirmaaltwaatii" height="30" width="30" /></a>
@@ -60,5 +60,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 -->
