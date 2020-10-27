@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hy 👋, I'm Niirmaal Twaatii</h1>
 <h3 align="center">_Exploring Technology_</h3>
 <p align="center">
@@ -59,4 +60,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
